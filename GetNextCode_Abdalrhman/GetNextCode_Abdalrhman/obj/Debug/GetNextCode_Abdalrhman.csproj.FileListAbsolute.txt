@@ -1,0 +1,7 @@
+C:\Users\abdalrhman.fahiem\source\repos\GetNextCode_Abdalrhman\GetNextCode_Abdalrhman\bin\Debug\GetNextCode_Abdalrhman.exe.config
+C:\Users\abdalrhman.fahiem\source\repos\GetNextCode_Abdalrhman\GetNextCode_Abdalrhman\bin\Debug\GetNextCode_Abdalrhman.exe
+C:\Users\abdalrhman.fahiem\source\repos\GetNextCode_Abdalrhman\GetNextCode_Abdalrhman\bin\Debug\GetNextCode_Abdalrhman.pdb
+C:\Users\abdalrhman.fahiem\source\repos\GetNextCode_Abdalrhman\GetNextCode_Abdalrhman\obj\Debug\GetNextCode_Abdalrhman.csprojResolveAssemblyReference.cache
+C:\Users\abdalrhman.fahiem\source\repos\GetNextCode_Abdalrhman\GetNextCode_Abdalrhman\obj\Debug\GetNextCode_Abdalrhman.csproj.CoreCompileInputs.cache
+C:\Users\abdalrhman.fahiem\source\repos\GetNextCode_Abdalrhman\GetNextCode_Abdalrhman\obj\Debug\GetNextCode_Abdalrhman.exe
+C:\Users\abdalrhman.fahiem\source\repos\GetNextCode_Abdalrhman\GetNextCode_Abdalrhman\obj\Debug\GetNextCode_Abdalrhman.pdb
